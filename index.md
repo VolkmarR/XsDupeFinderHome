@@ -1,6 +1,6 @@
 ---
-layout: "Home"
-Title: "This is the homepage"
+layout: default
+title: This is the homepage
 ---
 
 Text of the home page
