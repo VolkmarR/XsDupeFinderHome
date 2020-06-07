@@ -1,2 +1,0 @@
-# XsDupeFinderHome
-Homepage for XxDupeFinder
